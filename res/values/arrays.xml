@@ -181,6 +181,8 @@
         <item>@string/pref_camera_picturesize_entry_12mp</item>
         <item>@string/pref_camera_picturesize_entry_8mp</item>
         <item>@string/pref_camera_picturesize_entry_8mp</item>
+        <item>7.7M pixels</item>
+        <item>6M pixels (16:9)</item>
         <item>@string/pref_camera_picturesize_entry_square</item>
         <item>@string/pref_camera_picturesize_entry_5mp</item>
         <item>@string/pref_camera_picturesize_entry_5mp</item>
@@ -199,7 +201,7 @@
         <item>@string/pref_camera_picturesize_entry_800x600</item>
         <item>@string/pref_camera_picturesize_entry_800x480</item>
         <item>960 x 720</item>
-        <item>720 x 480</item>
+        <item>SD480</item>
         <item>@string/pref_camera_picturesize_entry_vga</item>
         <item>@string/pref_camera_picturesize_entry_352x288</item>
         <item>@string/pref_camera_picturesize_entry_qvga</item>
@@ -215,6 +217,8 @@
         <item>4000x3000</item>
         <item>3840x2160</item>
         <item>3264x2448</item>
+        <item>3200x2400</item>
+        <item>3264x1836</item>
         <item>2976x2976</item>
         <item>2592x1944</item>
         <item>2592x1936</item>
